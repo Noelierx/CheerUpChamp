@@ -1,0 +1,15 @@
+{
+  "name": "cheerupchamp",
+  "version": "1.0.0",
+  "description": "CheerUpChamp, a slack bot for employees lacking recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.17.1"
+  }
+}
